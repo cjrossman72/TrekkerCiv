@@ -7,7 +7,7 @@
 		"cost": 45,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit", "Can transform to [Scout]"],
-		"replaces": "Trirene",
+		"replaces": "Trireme",
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
